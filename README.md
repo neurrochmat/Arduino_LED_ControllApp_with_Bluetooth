@@ -15,9 +15,9 @@ For iOS, add the following to your Info.plist:
 <string>Need Bluetooth permission to connect to Arduino</string>
 
 The app will:
-> Show all paired Bluetooth devices
-> Allow you to connect to your Arduino
-> Provide buttons to turn the LED on/off
-> Allow you to specify blink count and duration
+- Show all paired Bluetooth devices
+- Allow you to connect to your Arduino
+- Provide buttons to turn the LED on/off
+- Allow you to specify blink count and duration
 
 Arduino Script: 
